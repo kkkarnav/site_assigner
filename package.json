@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "google": "^2.1.0",
+    "googleapis": "^107.0.0"
+  }
+}
